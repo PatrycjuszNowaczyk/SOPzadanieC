@@ -1,2 +1,2 @@
-#Zadanie SOP z programu powłoki bash napisany w języku C.
-Zadanie SOP
+#Zadanie SOP
+Zadanie SOP z programu powłoki bash napisany w języku C.
